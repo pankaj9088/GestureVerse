@@ -36,5 +36,4 @@ This project combines **Three.js** for high-performance 3D graphics and **MediaP
     - Custom shape generation logic maps particles to mathematical functions for each form.
     - Hand landmarks are mapped to 3D scene parameters (rotation, scale, color).
 
-## License
-MIT
+
