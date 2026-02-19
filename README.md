@@ -1,6 +1,6 @@
 # Celestial Particles
 
-An interactive 3D particle system controlled by free-air hand gestures using your webcam.
+GestureVerse is a computer vision–based hand gesture recognition system that enables touchless control of computer functions using real-time hand movements captured through a webcam. Built with Python, OpenCV, and MediaPipe, it detects hand landmarks and converts gestures into actions such as mouse movement, clicking, and keyboard input, providing a natural and interactive human-computer interaction experience.
 
 ## Overview
 This project combines **Three.js** for high-performance 3D graphics and **MediaPipe Hands** for real-time machine learning-based hand tracking. It creates a dynamic "Celestial" particle system that responds to your physical hand movements, allowing you to manipulate the particles in 3D space as if you were touching them.
@@ -35,5 +35,6 @@ This project combines **Three.js** for high-performance 3D graphics and **MediaP
     - Uses a `BufferGeometry` for efficient particle rendering.
     - Custom shape generation logic maps particles to mathematical functions for each form.
     - Hand landmarks are mapped to 3D scene parameters (rotation, scale, color).
+
 
 
